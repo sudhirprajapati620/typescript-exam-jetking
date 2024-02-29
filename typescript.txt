@@ -1,0 +1,29 @@
+Q.
+
+Write a TypeScript function that can add, subtract,
+multiply, divide and find the remainder of two numbers
+
+ans.
+
+    let num1 = 5;
+    let num2 = 5;
+    let ans1;
+    let ans2;
+    let ans3;
+    let ans4;
+    ans1 = num1 + num2;
+
+    ans2 = num1 - num2;
+
+    ans3 = num1 * num2;
+
+    ans4 = num1 / num2;
+
+    console.log(ans1);
+
+    console.log(ans2);
+
+    console.log(ans3);
+
+    console.log(ans4);
+    
